@@ -5,3 +5,4 @@ add and edit things within the application.
 flask.
 feature capstone one full app cap stone two.
 dillinger.
+put examples of what i want to make on trello.
